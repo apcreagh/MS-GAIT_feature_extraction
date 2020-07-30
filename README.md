@@ -6,7 +6,7 @@ The codebase demonstrates how to perform modular, scalable and parallelizable ga
 
 
 
-A full description of the features extrcated in this study can be found in:
+A full description of the features extracted in this study can be found in:
 'SupplementaryMaterial_Creagh2020_SmartphoneSmartwatch_MultipleSclerosis.pdf'
 
 #Acknowledgment

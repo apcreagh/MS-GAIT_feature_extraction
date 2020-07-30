@@ -1,4 +1,4 @@
-# MS_GAIT_feature_extraction
+# MS-GAIT_feature_extraction
 Software detailing the extraction of smartphone and smartwatch-based ambulatory features to accompany the publication: Creagh et al. (2020), "Smartphone- and Smartwatch-Based Remote Characterisation of Ambulation in Multiple Sclerosis During the Two-Minute Walk Test", IEEE J-BHI, 10.1109/JBHI.2020.2998187
 https://ieeexplore.ieee.org/abstract/document/9103259 
 

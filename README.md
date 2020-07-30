@@ -23,5 +23,6 @@ You should have received a copy of the GNU General Public License along with thi
 
 References:
 When using this code, please cite [1].
+
 [1]   A. P. Creagh et al. (2020), "Smartphone- and Smartwatch-Based Remote Characterisation of Ambulation in Multiple Sclerosis during the Two-Minute Walk Test," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2020.2998187.
 
